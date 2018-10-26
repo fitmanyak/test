@@ -2,6 +2,17 @@ fun f() {
 }
 
 /*
+This comment should be deleted too.
+
+
+
+
+
+
+
+ */
+
+/*
 This comment should be deleted.
 
 
